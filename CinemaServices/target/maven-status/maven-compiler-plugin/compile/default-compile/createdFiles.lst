@@ -1,0 +1,13 @@
+com\cinema\dao\UserDao.class
+com\cinema\model\RegistrationRequest.class
+com\cinema\dao\RegistrationRequestDao.class
+com\cinema\rest\BookingService.class
+com\cinema\model\Booking.class
+com\cinema\db\CinemaDb.class
+com\cinema\dao\BookingDao.class
+com\cinema\dao\MovieDao.class
+com\cinema\rest\BrowseMoviesService.class
+com\cinema\model\Movie.class
+com\cinema\rest\AuthenticationService.class
+com\cinema\model\User.class
+com\cinema\rest\AdminServices.class
